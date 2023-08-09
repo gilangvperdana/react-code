@@ -8,7 +8,7 @@ import { AppInfo } from '@/const.js'
     <template v-slot:main>
       <div class="q-pa-md">
         <q-list>
-          <q-item-label header class="text-indigo text-bold">Applications Name</q-item-label>
+          <q-item-label header class="text-indigo text-bold">Applicationss Name</q-item-label>
           <q-item>
             <q-item-section>{{ AppInfo.AppName }}</q-item-section>
           </q-item>
